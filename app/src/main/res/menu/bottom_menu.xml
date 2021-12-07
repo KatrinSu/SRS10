@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/want"
+        android:enabled="true"
+        android:icon="@drawable/outline_sentiment_satisfied_24"
+        android:title="@string/want" />
+    <item
+        android:id="@+id/do_not_want"
+        android:enabled="true"
+        android:icon="@drawable/outline_sentiment_dissatisfied_24"
+        android:title="@string/do_not_want" />
+</menu>
